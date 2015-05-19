@@ -1,2 +1,2 @@
 # TestGitHub
-GitHub Learning
+TestGitHub is a repository for learning Github.
